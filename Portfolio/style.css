@@ -1,0 +1,84 @@
+
+.fit-pic 
+    {
+        width: 150px;
+        height: 150px;
+    }
+.fit-logo
+    {
+        width: 40px;
+        height: 40px;
+    }
+table
+    {
+        border-collapse: collapse;
+    }
+th, td 
+    {
+        padding: 8px;
+    }
+#cell1
+    {
+        border-top: none;
+        border-left: none;
+        border-right: 2px solid black;
+        border-bottom: 2px solid black;
+    }
+.cell2
+    {
+        
+        border-top: none;
+        border-left: 2px solid black;
+        border-right: 2px solid black;
+        border-bottom: 2px solid black;
+    }
+#cell3
+    {
+        border-top: none;
+        border-left: 2px solid black;
+        border-right: 2px none;
+        border-bottom: 2px solid black;
+    }
+#cell4
+    {
+        
+        border-top: 2px solid black;
+        border-left: none;
+        border-right: 2px solid black;
+        border-bottom: none;
+    }
+.cell5
+    {
+        border-top: 2px solid black;
+        border-left: 2px solid black;
+        border-right: 2px solid black;
+        border-bottom: none;
+    }
+#cell6
+    {
+        
+        border-top: 2px solid black;
+        border-left: 2px solid black;
+        border-right: none;
+        border-bottom: none;
+    }
+.cell7
+    {
+        border-top: 2px solid black;
+        border-left: none;
+        border-right: 2px solid black;
+        border-bottom: 2px solid black;
+    }
+.cell8
+    {
+        border-top: 2px solid black;
+        border-left: 2px solid black;
+        border-right: none;
+        border-bottom: 2px solid black;
+    }
+
+.reg
+    {
+        border: 2px solid black;
+    }
+
